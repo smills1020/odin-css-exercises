@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+#highlight-blue {
+  color: #0102FF;
+  font-size: 36px;
+}
+
+#highlight-green {
+  background-color: #80FF80;
+  font-weight: bold;
+}
+
+.highlight-pink {
+  background-color: #FFA7A7;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-bigger {
+  font-size: 24px;
+}
+
